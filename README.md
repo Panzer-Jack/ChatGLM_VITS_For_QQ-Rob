@@ -22,3 +22,4 @@ Combination of ChatGLM and VITs anime girl AI voice and used in QQ robot
  
 #### 由于ChatGPT 对国内彻底上墙了，因此该项目会利用开源模型ChatGLM 做本地化版本
 开发中。。。（这个月没钱了，筹钱买计算卡ing
+ChatGPT版本：[ChatGPT_VITS_For_QQ-Rob](https://github.com/Panzer-Jack/ChatGPT_VITS_For_QQ-Rob)

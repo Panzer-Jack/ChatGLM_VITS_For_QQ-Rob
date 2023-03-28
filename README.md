@@ -8,7 +8,7 @@
     
 _✨ 基于 [go-cqhttp](https://github.com/Mrs4s/go-cqhttp) 以及 [VITS-fast-fine-tuning](https://github.com/Plachtaa/VITS-fast-fine-tuning) + [ChatGLM](https://github.com/THUDM/ChatGLM-6B)  实现 ✨_  
     
-Combination of ChatGPT and VITs anime girl AI voice and used in QQ robot
+Combination of ChatGLM and VITs anime girl AI voice and used in QQ robot
     
 </div>
 

@@ -79,7 +79,9 @@ ChatGPT版本：[ChatGPT_VITS_For_QQ-Rob](https://github.com/Panzer-Jack/ChatGPT
 #### 项目现状
 
 1. 在QQ群聊中你可以通过@机器人 来让机器人来读取你的信息
+<img width="530" alt="1" src="https://user-images.githubusercontent.com/81006731/236200085-73d585fd-bf27-4c13-ae42-4ebf6ee4687d.png">
 2. 可以通過指令 `宁宁酱听我指令:语音功能切换` 來開關QQ AI 的語音功能
+<img width="376" alt="2" src="https://user-images.githubusercontent.com/81006731/236200133-f012480d-b930-4c85-84f5-ac255b2a18e1.png">
 
 
 

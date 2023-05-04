@@ -44,7 +44,7 @@ ChatGPT版本：[ChatGPT_VITS_For_QQ-Rob](https://github.com/Panzer-Jack/ChatGPT
 #### 软件架构说明
 1. config.py 设置机器人语言、声音模型等包括注意中的一切重要配置，均可在注釋中找
 
-那麽具體你可以在`config.py` 中什麽？
+那麽你具體可以在`config.py` 中做什麽？
    - 你可以設置AI語音的语言
    - 你可以設置AI語音声音模型
    - 你可以自定義AI的初始化人物個性設定如貓娘、美少女JK等等

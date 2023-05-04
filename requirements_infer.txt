@@ -1,0 +1,8 @@
+Cython
+librosa
+numpy
+scipy
+torch
+torchaudio
+unidecode
+gradio
